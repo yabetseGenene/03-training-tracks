@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Yabetse Genene 
 
-Track Name: 
+Track Name: NodeJS Backend
 
-Track Description: 
+Track Description: Describing it would be redundent.
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
